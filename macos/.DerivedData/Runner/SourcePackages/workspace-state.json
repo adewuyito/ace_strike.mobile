@@ -1,0 +1,24 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "audioplayers_darwin",
+          "kind" : "fileSystem",
+          "location" : "/Users/adewuyi/Development/spaceinvader.mobile/macos/Flutter/ephemeral/Packages/.packages/audioplayers_darwin",
+          "name" : "audioplayers_darwin"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/adewuyi/Development/spaceinvader.mobile/macos/Flutter/ephemeral/Packages/.packages/audioplayers_darwin"
+        },
+        "subpath" : "audioplayers_darwin"
+      }
+    ]
+  },
+  "version" : 6
+}
